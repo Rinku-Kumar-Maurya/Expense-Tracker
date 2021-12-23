@@ -14,4 +14,7 @@ export default makeStyles((theme) => ({
     maxHeight: '112px',
     overflow: 'auto',
   },
+  listItem: {
+    padding: '0 48px 0 16px'
+  }
 }));
