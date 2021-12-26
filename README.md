@@ -5,8 +5,6 @@
 Expense Tracker app helps you in keeping track of your daily expenses and income from different sources.
 You can add and delete entries through speech as well as manually. It stores data in the local storage of the browser, so that whenever you visit the site again, all of your data will still be present in the application. It also gives you a nice visual representation through doughnut graphs which is implemented using chart.js. Voice capabilities are added to this app using Speechly (voice interface API).
 
-This is a basic social media application.
-You can perform all CRUD operations on posts. This also supports features like commenting, liking, authentication, recomended posts, search for a particular post, etc.
 
 ## Tech Stack use
 1. React
